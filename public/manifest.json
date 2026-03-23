@@ -1,6 +1,6 @@
 {
   "name": "Boat Club App",
-  "short_name": "BoatClub",
+  "short_name": "LakeToysApp",
   "description": "Mobile App Demo",
   "start_url": "/",
   "display": "standalone",
